@@ -1,0 +1,3 @@
+$ git branch -v
+  bug-fix-typo ae281e4 Fix typo in README
+* main         f9a11d2 Verify pull request and fork source using curl
